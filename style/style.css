@@ -11,4 +11,25 @@
     background-color: #E5E5E5;
     
 } 
+.accordion .accordion-item .accordion-button{
+    text-decoration: none;
+   
+}
+.accordion .accordion-item .accordion-header {
+    background-color: rgb(92, 128, 139);
+}
+.accordion .accordion-item .accordion-header  button {
+color:white;
+}
+.accordion .accordion-item{
+    border:2px solid;
+}
+.accordion-button {
+    background-color: rgb(117, 106, 106);
+  }
+  
+
+
+
+g
 
