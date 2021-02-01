@@ -27,9 +27,22 @@ color:white;
 .accordion-button {
     background-color: rgb(117, 106, 106);
   }
-  
+ 
+  .big{
+      font-size: larger;
+  }
+
+.btn-primary {
+    color: #fff;
+    background-color:  #A0BE37;
+    border-color:  #A0BE37;
+    outline: #A0BE37;
+}
+
+.btn-primary:hover{
+    background-color:   #7CA432;
+    border-color:  #A0BE37;
 
 
-
-g
+}
 
