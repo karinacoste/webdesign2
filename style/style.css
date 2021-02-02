@@ -25,12 +25,16 @@ color:white;
     border:2px solid;
 }
 .accordion-button {
+
     background-color: rgb(117, 106, 106);
+  }
+  .accordion-button:not(.collapsed){
+      background-color:#A0BE37;
   }
   .big{
       font-size: larger;
   }
-
+/* no sobrescribir las clases de boostrap*/ 
 .btn-primary {
     color: #fff;
     background-color:  #A0BE37;
