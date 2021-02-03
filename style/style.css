@@ -49,3 +49,8 @@ color:white;
 
 }
 
+.table-image 
+    td, th {
+      vertical-align:middle;
+    }
+  
