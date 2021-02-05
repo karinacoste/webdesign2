@@ -24,13 +24,13 @@
 .accordion .accordion-item .accordion-header  button {
 color:white;
 }
-.accordion .accordion-item{
-    border:2px solid;
-}
-.accordion-button {
 
-    background-color: rgb(117, 106, 106);
+.accordion-button {
+ 
+    background-color:rgb(226, 167, 77);
+  
   }
+
   .accordion-button:not(.collapsed){
       background-color:#A0BE37;
   }
@@ -51,14 +51,16 @@ color:white;
 
 
 }
-
-.table-image 
-    td, th {
-      vertical-align:middle;
-    }
     .table td{
         color: #A0BE37;
         font-size: 20px;
       
     }
+    .table-image 
+        td, th {
+          vertical-align: middle;
+        }
+  
+   
+  
   
