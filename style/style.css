@@ -53,6 +53,10 @@ color:white;
         font-size: 20px;
       
     }
+    .table-image 
+        td, th {
+          vertical-align: middle;
+        }
   
    
   
