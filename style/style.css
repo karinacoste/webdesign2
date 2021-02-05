@@ -53,4 +53,9 @@ color:white;
     td, th {
       vertical-align:middle;
     }
+    .table td{
+        color: #A0BE37;
+        font-size: 20px;
+      
+    }
   
