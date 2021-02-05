@@ -48,18 +48,14 @@ color:white;
 
 
 }
-
-.table-image 
-    td, th {
-      vertical-align:middle;
-    }
     .table td{
         color: #A0BE37;
         font-size: 20px;
       
     }
     .table img{
-        width:120px;
+        width: 120px;
     }
+   
   
   
