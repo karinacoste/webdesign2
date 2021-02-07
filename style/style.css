@@ -51,14 +51,17 @@ color:white;
 
 
 }
+
     .table td{
         /*color: #A0BE37;*/
-      
+     
     }
 
     .table td i{
         color: #A0BE37;
         padding: 0;
+      
+        
     }
 
     .table-image 
