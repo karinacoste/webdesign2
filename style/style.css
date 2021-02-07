@@ -11,60 +11,34 @@
     background-color: #E5E5E5;
     
 } 
-
-
-
-.accordion .accordion-item .accordion-button{
-    text-decoration: none;
-   
-}
-.accordion .accordion-item .accordion-header {
-    background-color: rgb(92, 128, 139);
-}
-.accordion .accordion-item .accordion-header  button {
-color:white;
-}
-
 .accordion-button {
- 
-    background-color:rgb(226, 167, 77);
+     background-color:rgb(226, 167, 77);
   
   }
   /* el ultimo elemento de sus hermanos q sea accordion item tenga el button rojo */
 .accordion-item:last-child .accordion-button{
- 
     background-color:rgb(250, 235, 102);
-    
-  
   }
 /*cuadno hay diversas reglas aplicadas a lo mismo hace caso a esto*/
   .accordion-button:not(.collapsed){
       background-color:#A0BE37 !important;
-
   }
   .big{
       font-size: larger;
   }
-/* no sobrescribir las clases de boostrap*/ 
-.btn-primary {
-    color: #fff;
-    background-color:  #A0BE37;
-    border-color:  #A0BE37;
-    outline: #A0BE37;
+
+.btn-green {
+   background-color: #A0BE37;
+   color:white;
 }
 
-.btn-primary:hover{
-    background-color:   #7CA432;
+.btn-green:hover{
+    background-color: #7CA432;
     border-color:  #A0BE37;
-
-
 }
-
     .table td i{
         color: #A0BE37;
         padding: 0;
-      
-        
     }
 
     .table-image 
