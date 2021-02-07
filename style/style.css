@@ -11,6 +11,9 @@
     background-color: #E5E5E5;
     
 } 
+
+
+
 .accordion .accordion-item .accordion-button{
     text-decoration: none;
    
@@ -48,11 +51,19 @@ color:white;
 
 
 }
+
     .table td{
-        color: #A0BE37;
-        font-size: 20px;
-      
+        /*color: #A0BE37;*/
+     
     }
+
+    .table td i{
+        color: #A0BE37;
+        padding: 0;
+      
+        
+    }
+
     .table-image 
         td, th {
           vertical-align: middle;
