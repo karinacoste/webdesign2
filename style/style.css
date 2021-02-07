@@ -30,9 +30,17 @@ color:white;
     background-color:rgb(226, 167, 77);
   
   }
-
+  /* el ultimo elemento de sus hermanos q sea accordion item tenga el button rojo */
+.accordion-item:last-child .accordion-button{
+ 
+    background-color:rgb(250, 235, 102);
+    
+  
+  }
+/*cuadno hay diversas reglas aplicadas a lo mismo hace caso a esto*/
   .accordion-button:not(.collapsed){
-      background-color:#A0BE37;
+      background-color:#A0BE37 !important;
+
   }
   .big{
       font-size: larger;
@@ -51,11 +59,6 @@ color:white;
 
 
 }
-
-    .table td{
-        /*color: #A0BE37;*/
-     
-    }
 
     .table td i{
         color: #A0BE37;
